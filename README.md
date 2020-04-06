@@ -1,4 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deliveroo
+
+<img width="100%" src="src/Capture d’écran 2020-04-06 à 18.55.31.png"/>
+
+## Description
+
+This was my first React project, first building a backend (https://github.com/julielesage/Deliveroo_backend/) sending a .json to Heroku. Then creating react app for the frontend. This is one restaurant example, displaying all menus of one restaurant, and a basket with a counter to order meals. Please try it online : https://loving-blackwell-e59955.netlify.com/.   
+
+## Technos
+
+React.js / Axios / node.js
+
+## Installation
+
+git clone https://github.com/julielesage/Deliveroo_frontend/.   
+npm install. 
 
 ## Available Scripts
 
