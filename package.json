@@ -13,7 +13,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-lines-ellipsis": "^0.14.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "kind-of": "^6.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -41,6 +42,7 @@
     "minimist": "^1.2.5"
   },
   "resolutions": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.5",
+    "kind-of": "^6.0.3"
   }
 }
