@@ -1,10 +1,10 @@
 import React from "react";
 import "./style.css";
 
-const RestoHeader = props => {
+const RestoHeader = (props) => {
   return (
     <div className="white padding30">
-      <div className="d-flex container">
+      <div className="d-flex container aligned">
         <div>
           <h1>{props.name}</h1>
           <p className="grey">{props.description}</p>

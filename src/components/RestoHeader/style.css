@@ -1,9 +1,10 @@
 .resto {
   width: 352px;
-  height: 254px;
+  height: 178px;
 
   border-radius: 20px;
   margin-left: 30px;
   object-fit: cover;
   object-position: center;
+  box-sizing: border-box;
 }
